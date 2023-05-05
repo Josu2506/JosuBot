@@ -1,0 +1,2 @@
+# JosuBot
+JosuBot Begins!
